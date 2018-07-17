@@ -1,0 +1,1 @@
+define("nls/ru/mobile",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Download App":"Загрузить приложение","Use the Coursera app":"Используйте приложение Coursera","You’ll be able to track your progress, giving you a better learning experience.":"Учитесь и отслеживайте прогресс удобнее."}});

@@ -1,0 +1,1 @@
+define("nls/ru/ui",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Close:"Закрыть","Copied to clipboard":"Скопировано в буфер обмена",Copy:"Копировать",Less:"Меньше",More:"Еще","Show less":"Меньше"}});
